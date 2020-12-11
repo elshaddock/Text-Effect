@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 150px;
+  font-size: 150px;
+  font-weight: 800;
+  color: transparent;
+}
+
+.header1{
+  background-image: url(https://media.giphy.com/media/mBvUaCuDPEXNnIk2NK/giphy.gif);
+  background-position: center;
+  -webkit-background-clip:text;
+}
+
+.header2{
+  background-image: url(https://media.giphy.com/media/cJMlR1SsCSkUjVY3iK/giphy.gif);
+  background-position: center;
+  -webkit-background-clip:text;
+}
